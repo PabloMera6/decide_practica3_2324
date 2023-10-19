@@ -28,7 +28,7 @@ jobs:
     - name: Set up Python 3.10.12
       uses: actions/setup-python@v4
       with:
-        python-version: $({matrx.pyversion})
+        python-version: $({matrix.pyversion})
     - name: psycopg2 prerequisites
       run: sudo apt-get install libpq-dev
     - name: Install dependencies and config
