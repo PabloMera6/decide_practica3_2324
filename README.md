@@ -1,9 +1,4 @@
-FT1
-FT2
-FT3
-FT4
-FT5
-FT6
+F[![Python application](https://github.com/PabloMera6/decide_practica3_2324/actions/workflows/django.yml/badge.svg)](https://github.com/PabloMera6/decide_practica3_2324/actions/workflows/django.yml)
 Plataforma voto electrónico educativa
 =====================================
 
